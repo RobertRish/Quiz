@@ -11,11 +11,13 @@ body {
     height: 100vh;
     justify-content: center;
     align-items: center;
+    background-color: blue;
 }
 
 .container {
     max-width: 80%;
     box-shadow: 0 0 10px 2px;
+    background-color: lightblue;
 }
 btn-grid {
     display: grid;
